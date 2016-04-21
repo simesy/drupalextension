@@ -19,7 +19,7 @@
     "behat/mink-extension": "~2.0",
     "drupal/drupal-driver": "dev-master",
     "symfony/dependency-injection": "2.8.*",
-    "symfony/event-dispatcher": "2.7.*"
+    "symfony/event-dispatcher": "2.8.*"
   },
   "require-dev": {
     "phpspec/phpspec": "~2.0",
